@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable ba
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay520-j&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vinay520-j&count_private=true&theme=radical)
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Vinay520-j&count_private=true&theme=radical" alt="GitHub Stats" /></p>
 
 
 ---
