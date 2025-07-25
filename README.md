@@ -37,6 +37,8 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable ba
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay520-j&layout=compact&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay520-j&layout=compact&theme=radical" alt="GitHub Stats" /></p>
+
 ---
 
 ## 🧠 Currently Learning
