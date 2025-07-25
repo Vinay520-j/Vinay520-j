@@ -39,16 +39,6 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable ba
 
 ---
 
-## 📂 Notable Projects
-
-| Project | Description |
-|--------|-------------|
-| **[Project 1](https://github.com/Vinay520-j/Project-1)** | A full-stack application with Node.js & PostgreSQL |
-| **[Project 2](https://github.com/Vinay520-j/Project-2)** | RESTful API for user authentication and data management |
-| **[More Projects →](https://github.com/Vinay520-j?tab=repositories)** | Check out my full portfolio of work |
-
----
-
 ## 🧠 Currently Learning
 
 - System Design
