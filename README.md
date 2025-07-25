@@ -49,8 +49,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable ba
 
 ## 🤝 Let's Connect
 
-- 📧 Email: [vinay520.j@gmail.com](mailto:vinay520.j@gmail.com)
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 📧 Email: [vinaysinghnegi520@gmail.com](mailto:vinaysinghnegi520@gmail.com)
 
 ---
 
