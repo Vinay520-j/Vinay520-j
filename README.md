@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building scalable ba
 - 🎯 Learning: **System Design**, **Docker**, and **AWS**
 - 📈 Passionate about writing clean code and optimizing performance
 - 💬 Ask me about JavaScript, Node.js, SQL, or any backend stuff!
-- 📫 How to reach me: [vinaysinghnegi@gmail.com](mailto:vinaysinghnegi520@gmail.com)
+- 📫 How to reach me: [vinaysinghnegi520@gmail.com](mailto:vinaysinghnegi520@gmail.com)
 
 ---
 
